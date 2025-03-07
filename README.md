@@ -1,8 +1,13 @@
-# 👨‍💻 Will Parreiras
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fff&left=true&vleft=true&random=false&width=524&lines=Will Parreiras" alt="Typing SVG">
+</a>
 
 **`Um desenvolvedor iniciante`**
-
+<div style="color: #FFF; margin-bottom: 30px" >
 Me chamo William Parreiras da Silva, tenho 21 anos e sou natural de Santa Catarina. Formado em Análise e Desenvolvimento de Sistemas pela Estácio. Atualmente, estou Estudando Desenvolvimento de Apps em Expo. Desde pequeno gosto muito de tecnologia e sempre foi meu sonho me tornar um programador!
+</div>
+
+</br>
 
 <p align="left">
     <a href="https://www.instagram.com/will_parreiras/">
@@ -56,9 +61,13 @@ Me chamo William Parreiras da Silva, tenho 21 anos e sou natural de Santa Catari
     </a>
 </p>
 
----
+#
 
-### 🤖 Linguagens e Tecnologias
+<div>
+<h3 style= "color: white">🤖 Linguagens e Tecnologias</h3>
+</div>
+
+<br/>
 
 <img 
     align="left" 
@@ -126,30 +135,29 @@ Me chamo William Parreiras da Silva, tenho 21 anos e sou natural de Santa Catari
 />
 
 <br/>
+
+#
+
+<div>
+<h3 style= "color: white; margin-bottom: 30px">📊 Estatísticas</h3>
+</div>
+
 <br/>
 
-### 📊 Estatísticas
-
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=willparreiras&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="125" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willparreiras&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willparreiras&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=871fff&text_color=FFF&border_radius=3&border_color=871fff&icon_color=871fff&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/willparreiras/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=willparreiras&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=871fff&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=871fff&count_private=true" alt="Most Used Languages">
+  </a>
 
 </p>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willparreiras/willparreiras/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willparreiras/willparreiras/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/willparreiras/mari4souza/output/github-contribution-grid-snake.svg">
+  <img width="100%"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/willparreiras/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
