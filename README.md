@@ -134,7 +134,7 @@ Me chamo William Parreiras da Silva, tenho 21 anos e sou natural de Santa Catari
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=willparreiras&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -142,8 +142,14 @@ Me chamo William Parreiras da Silva, tenho 21 anos e sou natural de Santa Catari
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=willparreiras&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willparreiras/willparreiras/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willparreiras/willparreiras/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/willparreiras/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
