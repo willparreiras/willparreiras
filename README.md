@@ -142,7 +142,7 @@ Me chamo William Parreiras da Silva, tenho 21 anos e sou natural de Santa Catari
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="125" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=willparreiras&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
