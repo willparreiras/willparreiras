@@ -159,5 +159,5 @@ Me chamo William Parreiras da Silva, tenho 21 anos e sou natural de Santa Catari
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willparreiras/willparreiras/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willparreiras/willparreiras/output/github-contribution-grid-snake-dark.svg">
-  <img width="100%"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/willparreiras/mari4souza/output/github-contribution-grid-snake.svg">
+  <img width="100%"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/willparreiras/willparreiras/output/github-contribution-grid-snake.svg">
 </picture>
